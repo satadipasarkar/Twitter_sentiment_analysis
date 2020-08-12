@@ -15,5 +15,5 @@ We want to do sentiment analysis on the various tweets for certain global events
 
 ### Architecture Diagram
 
-![alt text](https://raw.githubusercontent.com/satadipasarkar/TwitterSentimentAnalysis/master/assets/architecture_diagram_twitter_sentiment.svg.png)
+![alt text](https://raw.githubusercontent.com/satadipasarkar/Twitter_sentiment_analysis_big_data_projec/master/assets/architecture_diagram_twitter_sentiment.svg.png)
 
