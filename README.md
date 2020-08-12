@@ -1,4 +1,4 @@
-# Twitter_sentiment_analysis_big_data_project
+# TwitterSentimentAnalysis
 
 ### Goal
 We want to do sentiment analysis on the various tweets for certain global events of importance in the past
